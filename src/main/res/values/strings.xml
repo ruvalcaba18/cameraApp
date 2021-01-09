@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">cameraApp</string>
+    <string name="welcome_my_friends">Welcome my friends</string>
+    <string name="sing_in">Ingresar</string>
+    <string name="introduzca_su_contraseña">Introduzca su contraseña</string>
+    <string name="introduzca_su_usuario">Introduzca su Correo</string>
+    <string name="introduzca_su_nombre">Introduzca su Nombre</string>
+    <string name="todo">TODO</string>
+    <string name="introduzca_su_apellido">Introduzca su Apellido</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ingrese_su_correo">Ingrese su correo</string>
+    <string name="enviar_contrase_a">Enviar Contraseña</string>
+    <string name="olvidaste_tu_contrase_a">Olvidaste tu contraseña?</string>
+    <string name="no_tienes_cuenta_registrate">No tienes cuenta? Registrate.!</string>
+    <string name="wifi_connected">WI-FI</string>
+    <string name="lost_connection">Lost-Connection</string>
+
+    <string name="registrar">Registrar</string>
+    <string name="vis_en_casa">Vis.En Casa</string>
+    <string name="servicios">Servicios</string>
+    <string name="mi_informaci_n">Mi información</string>
+    <string name="home">Home</string>
+    <string name="registrar_visitas">Registrar Visitas</string>
+    <string name="mi_informacion">Mi Informacion</string>
+    <string name="serviciosFragment">Servicios</string>
+    <string name="homme_pannel">Homme pannel</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964362456469",
+    "firebase_url": "https://sistema-de-seguridad-73b4b.firebaseio.com",
+    "project_id": "sistema-de-seguridad-73b4b",
+    "storage_bucket": "sistema-de-seguridad-73b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964362456469:android:9a6593c22338de77ccba9c",
+        "android_client_info": {
+          "package_name": "com.example.cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964362456469-quh35kkrs3vil8p6bvkj0ui2an8avpig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cameraapp",
+            "certificate_hash": "60a015def4c26ae4827abff3739902f849fdaa0f"
+          }
+        },
+        {
+          "client_id": "964362456469-t19i8dcplh81k93dauejl6345t4fsqtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFKed1FfO_KDWQfI3F2XK13zovyutOuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964362456469-t19i8dcplh81k93dauejl6345t4fsqtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

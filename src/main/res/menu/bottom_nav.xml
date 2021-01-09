@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pannel"
+        android:title="@string/home"
+        android:icon="@drawable/ic_action_home
+"
+        />
+    <item
+        android:id="@+id/visitas"
+        android:title="@string/vis_en_casa"
+        android:icon="@drawable/ic_action_visitas"
+        />
+    <item
+    android:id="@+id/RegistrarV"
+    android:title="@string/registrar"
+        android:icon="@drawable/ic_action_registrar"
+    />
+    <item
+    android:id="@+id/myInf"
+    android:title="@string/mi_informaci_n"
+        android:icon="@drawable/ic_action_info"
+    />
+
+    <item
+        android:id="@+id/Services"
+        android:title="@string/servicios"
+        android:icon="@drawable/ic_action_services"
+
+        />
+
+</menu>
